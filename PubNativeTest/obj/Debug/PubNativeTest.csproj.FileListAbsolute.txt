@@ -1,0 +1,12 @@
+c:\users\natalia\documents\visual studio 2015\Projects\PubNativeAutomation\PubNativeTest\bin\Debug\PubNativeTest.dll
+c:\users\natalia\documents\visual studio 2015\Projects\PubNativeAutomation\PubNativeTest\bin\Debug\PubNativeTest.pdb
+c:\users\natalia\documents\visual studio 2015\Projects\PubNativeAutomation\PubNativeTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\natalia\documents\visual studio 2015\Projects\PubNativeAutomation\PubNativeTest\bin\Debug\PubNativeAutomation.dll
+c:\users\natalia\documents\visual studio 2015\Projects\PubNativeAutomation\PubNativeTest\bin\Debug\WebDriver.dll
+c:\users\natalia\documents\visual studio 2015\Projects\PubNativeAutomation\PubNativeTest\bin\Debug\PubNativeAutomation.pdb
+c:\users\natalia\documents\visual studio 2015\Projects\PubNativeAutomation\PubNativeTest\bin\Debug\WebDriver.xml
+c:\users\natalia\documents\visual studio 2015\Projects\PubNativeAutomation\PubNativeTest\obj\Debug\PubNativeTest.csprojResolveAssemblyReference.cache
+c:\users\natalia\documents\visual studio 2015\Projects\PubNativeAutomation\PubNativeTest\obj\Debug\PubNativeTest.dll
+c:\users\natalia\documents\visual studio 2015\Projects\PubNativeAutomation\PubNativeTest\obj\Debug\PubNativeTest.pdb
+c:\users\natalia\documents\visual studio 2015\Projects\PubNativeAutomation\PubNativeTest\bin\Debug\WebDriver.Support.dll
+c:\users\natalia\documents\visual studio 2015\Projects\PubNativeAutomation\PubNativeTest\bin\Debug\WebDriver.Support.xml

@@ -1,0 +1,9 @@
+c:\users\natalia\documents\visual studio 2015\Projects\PubNativeAutomation\PubNativeAutomation\bin\Debug\PubNativeAutomation.dll
+c:\users\natalia\documents\visual studio 2015\Projects\PubNativeAutomation\PubNativeAutomation\bin\Debug\PubNativeAutomation.pdb
+c:\users\natalia\documents\visual studio 2015\Projects\PubNativeAutomation\PubNativeAutomation\bin\Debug\WebDriver.dll
+c:\users\natalia\documents\visual studio 2015\Projects\PubNativeAutomation\PubNativeAutomation\bin\Debug\WebDriver.Support.dll
+c:\users\natalia\documents\visual studio 2015\Projects\PubNativeAutomation\PubNativeAutomation\bin\Debug\WebDriver.xml
+c:\users\natalia\documents\visual studio 2015\Projects\PubNativeAutomation\PubNativeAutomation\bin\Debug\WebDriver.Support.xml
+c:\users\natalia\documents\visual studio 2015\Projects\PubNativeAutomation\PubNativeAutomation\obj\Debug\PubNativeAutomation.csprojResolveAssemblyReference.cache
+c:\users\natalia\documents\visual studio 2015\Projects\PubNativeAutomation\PubNativeAutomation\obj\Debug\PubNativeAutomation.dll
+c:\users\natalia\documents\visual studio 2015\Projects\PubNativeAutomation\PubNativeAutomation\obj\Debug\PubNativeAutomation.pdb
